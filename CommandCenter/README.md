@@ -1,2 +1,2 @@
 # APICloudHackathon - Web Comand Center
-Nurse Alerty - DevNetwork [API + Cloud + Data] Hackathon 2025
+Nurse Alert - DevNetwork [API + Cloud + Data] Hackathon 2025
